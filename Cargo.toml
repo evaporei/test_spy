@@ -1,0 +1,8 @@
+[package]
+name = "test_spy"
+version = "0.1.0"
+authors = ["Otávio Pace <otaviopp8@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+spy = "0.1"
