@@ -1,8 +1,7 @@
 [package]
-name = "test_spy"
+name = "spy"
 version = "0.1.0"
 authors = ["Otávio Pace <otaviopp8@gmail.com>"]
 edition = "2018"
 
 [dependencies]
-spy = { path = 'crates/spy', version = '0.1' }
